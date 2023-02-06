@@ -1,0 +1,32 @@
+#tab {
+    font-family:  'Calibri';
+   
+    position: relative;
+    width:99%;
+  }
+    #tab td, #tab th {
+      border: 1px solid #ddd;
+      padding: 2px;
+      margin: 0;
+    }
+    
+    #tab tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #tab tr {background-color: #ddd;}
+  
+  #tab th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #b5bcc4;
+    color: rgb(44, 39, 39);
+    font-size: 12px;
+   }
+  .car{
+      width:300px;
+  }
+  label{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(141, 5, 5);
+  }
